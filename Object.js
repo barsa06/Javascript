@@ -8,4 +8,4 @@ const person = {
      hobbies : ["reading", "cooking"]
 
 }
-console.log(person.name);
+console.log(person.hobbies[0][1]);
